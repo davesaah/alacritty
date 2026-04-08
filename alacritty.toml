@@ -1,0 +1,19 @@
+general.import = [
+	"~/.config/alacritty/themes/catppuccin/catppuccin-macchiato.toml",
+]
+
+[window]
+opacity = 0.95
+startup_mode = "Maximized"
+decorations = "none"
+
+[font]
+normal = { family = "FiraCode Nerd Font Mono", style = "Retina" }
+bold = { family = "FiraCode Nerd Font Mono", style = "Bold" }
+size = 16.0
+
+[selection]
+save_to_clipboard = true
+
+[mouse]
+hide_when_typing = false
